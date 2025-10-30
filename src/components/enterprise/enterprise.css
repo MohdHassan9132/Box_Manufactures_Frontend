@@ -1,0 +1,19 @@
+.enterprise-container {
+  width: 500px;
+  margin: 5rem auto;
+  background: #121212;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+}
+.enterprise-container button {
+  background: #ff4747;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  margin-top: 1rem;
+}

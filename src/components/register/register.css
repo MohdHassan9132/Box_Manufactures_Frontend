@@ -1,0 +1,28 @@
+.register-container {
+  width: 350px;
+  margin: 5rem auto;
+  background: #1e1e1e;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+}
+.register-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 0.5rem 0;
+  border: none;
+  border-radius: 6px;
+}
+.register-container button {
+  width: 100%;
+  padding: 10px;
+  background: #00c896;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.msg {
+  color: #ff8080;
+  margin-top: 0.5rem;
+}
