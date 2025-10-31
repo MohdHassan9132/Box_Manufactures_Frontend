@@ -1,0 +1,60 @@
+.job-page {
+  max-width: 600px;
+  margin: 30px auto;
+  background: black;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.job-page h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.job-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.job-form input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.job-form button {
+  background: #2b6cb0;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.job-form button:hover {
+  background: #1a4f8a;
+}
+
+.message {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.job-list {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.job-card {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: black;
+}
